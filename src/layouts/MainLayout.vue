@@ -26,7 +26,13 @@
 .content {
   padding-top: 70px;
   margin: auto;
-  max-width: 70vw;
-  background-color: antiquewhite;
+  max-width: 95vw;
+  /* background-color: antiquewhite; */
+}
+
+@media (min-width: 768px) {
+  .content {
+    max-width: 700px;
+  }
 }
 </style>

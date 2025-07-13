@@ -1,0 +1,139 @@
+[
+  [
+    {
+      "content": "Langkah awal tarik tunai ATM",
+      "type": "h1"
+    },
+    {
+      "content": "Pastikan anda memiliki kartu ATM yang valid dan saldo yang cukup. Tanda kedaluwarsa kartu ATM biasanya terdapat pada bagian belakang kartu dengan nomor bulan dan tahun kedaluwarsa (cth: 07/25, artinya kartu kedaluwarsa pada bulan Juli 2024).",
+      "type": "p"
+    },
+    {
+      "content": "https://fahum.umsu.ac.id/blog/wp-content/uploads/2024/11/panduan-mudah-ganti-kartu-atm-bca-yang-sudah-kedaluwarsa.jpg",
+      "type": "image"
+    },
+    {
+      "content": "Kartu Saya Kedaluwarsa",
+      "type": "h2"
+    },
+    {
+      "content": "Artinya, anda tidak dapat melakukan tarik tunai di ATM. Anda dapat menghubungi pihak bank untuk penggantian kartu",
+      "type": "p"
+    },
+    {
+      "content": "Kartu saya masih aktif",
+      "type": "h2"
+    },
+    {
+      "content": "Anda dapat melanjutkan ke langkah selanjutnya yaitu memasukkan kartu ke dalam mesin.",
+      "type": "p"
+    },
+    {
+      "type": "ol",
+      "content": [
+        {
+          "type": "li",
+          "content": "Masukkan kartu ke dalam mesin. Pastikan tanda panah mengarah ke dalam mesin."
+        },
+        { "type": "li", "content": "Masukkan PIN ATM anda pada tombol yang berada di mesin." },
+        {
+          "type": "li",
+          "content": "Pastikan anda memasukkan PIN yang benar. Jika sudah benar, maka anda akan dibawa masuk ke menu ATM"
+        }
+      ]
+    },
+    {
+      "content": "https://media.istockphoto.com/id/913326854/id/foto/tangan-wanita-memasukkan-kartu-bank-emas-ke-slot-kartu-atm.jpg?s=612x612&w=is&k=20&c=j2M4Osme-Zz1gcEJgYmNZ8-DwS8Gtx90zpB35Wji8sQ=",
+      "type": "image"
+    }
+  ],
+  [
+    {
+      "content": "Menu ATM: Pilih Tarik Tunai",
+      "type": "h1"
+    },
+    {
+      "content": "Pada umumnya, menu tarik tunai berada di halaman depan ATM. Di sini, pilih menu PENARIKAN TUNAI",
+      "type": "p"
+    },
+    {
+      "content": "https://i.imgur.com/hE8Vv8v.png",
+      "type": "image"
+    },
+
+    {
+      "content": "Pilih jumlah uang",
+      "type": "h2"
+    },
+    {
+      "content": "Secara default, terdapat jumlah uang yang biasa ditarik dengan nominal tertentu. Pilih salah satu jika cocok, jika tidak terdapat jumlah yang anda inginkan, pilih Transaksi Lainnya",
+      "type": "p"
+    },
+    {
+      "content": "https://i.imgur.com/A4mJk1G.png",
+      "type": "image"
+    },
+    {
+      "content": "Ya. Nominal yang saya inginkan sudah tertera",
+      "type": "h2"
+    },
+    {
+      "content": "Maka anda bisa menunggu uang keluar dari mesin. Dan jangan lupa ambil kartu ATM anda",
+      "type": "p"
+    },
+    {
+      "content": "Saya ingin ambil nominal yang lain",
+      "type": "h2"
+    },
+    {
+      "content": "Pilih transaksi lainnya lalu pilih \"Penarikan Tunai\"",
+      "type": "p"
+    },
+    {
+      "content": "https://i.imgur.com/J07mU47.png",
+      "type": "image"
+    },
+    {
+      "content": "Multinominal",
+      "type": "h2"
+    },
+    {
+      "content": "Beberapa ATM menyediakan pecahan uang Rp50.000 atau Rp100.000. Pilih sesuai kebutuhan",
+      "type": "p"
+    },
+    {
+      "content": "https://i.imgur.com/te6LmZe.png",
+      "type": "image"
+    },
+    {
+      "content": "https://i.imgur.com/9TWC0TT.png",
+      "type": "image"
+    }
+  ],
+  [
+    {
+      "content": "Pilihan Tampilkan Saldo atau Tidak",
+      "type": "h2"
+    },
+    {
+      "content": "https://i.imgur.com/hx7roaR.png",
+      "type": "image"
+    },
+    {
+      "content": "Anda bebas memilih untuk tampil saldo atau tidak.",
+      "type": "p"
+    },
+    {
+      "content": "Ambil uang dan kartu",
+      "type": "h2"
+    },
+    {
+      "content": "Jangan lupa untuk mengambil uang dan kartu ATM anda dan jangan sampai tertinggal di mesin.",
+      "type": "p"
+    },
+    {
+      "content": "https://www.youtube.com/embed/ZQD8Jb2T7hA?si=4Fjw-U-mvXGROvH_",
+      "type": "video"
+    }
+  ]
+]

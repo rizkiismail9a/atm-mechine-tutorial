@@ -4,4 +4,6 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>Ini Home</main>
+
+  <RouterLink to="/withdrawal">Withdrawal</RouterLink>
 </template>
