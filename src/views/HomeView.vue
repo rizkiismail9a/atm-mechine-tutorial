@@ -9,7 +9,7 @@ const menuLinks = ref([
     label: 'Tarik Tunai',
   },
   {
-    link: '/',
+    link: '/transfer',
     label: 'Transfer',
   },
   {
