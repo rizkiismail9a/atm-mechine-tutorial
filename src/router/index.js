@@ -22,6 +22,11 @@ const router = createRouter({
       name: 'withdrawal',
       component: () => import('../views/WithdrawalView.vue'),
     },
+     {
+      path: '/transfer',
+      name: 'transfer',
+      component: () => import('../views/transferView.vue'),
+    },
   ],
 })
 
