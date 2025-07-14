@@ -57,8 +57,10 @@ export default {
       <span v-if="currentStep > 0">
         <button @click="prevStep" :disabled="currentStep === 0">Sebelumnya</button>
       </span>
-      <span v-else style="visibility: hidden">
-        <button>Sebelumnya</button>
+      <span v-else>
+        <button class="finish-btn">
+          <RouterLink to="/"> Beranda</RouterLink>
+        </button>
       </span>
       <button
         @click="handleNextOrFinish"
@@ -115,6 +117,11 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: stretch;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
 
 /* Swipe left (next) */

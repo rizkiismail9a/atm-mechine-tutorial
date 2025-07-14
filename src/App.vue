@@ -8,7 +8,7 @@ import MainLayout from './layouts/MainLayout.vue'
   <NavBar />
 
   <MainLayout>
-    <RouterView />
+    <RouterView keep-alive />
   </MainLayout>
 </template>
 

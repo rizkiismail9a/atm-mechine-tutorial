@@ -2,7 +2,7 @@
 
 <template>
   <nav class="navbar">
-    <div>ATM Mini Course</div>
+    <RouterLink to="/">ATM Mini Course</RouterLink>
   </nav>
 </template>
 
@@ -10,6 +10,8 @@
 a {
   text-decoration: none;
   color: black;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .navbar {
@@ -28,18 +30,5 @@ a {
 
 div {
   max-width: 70%;
-}
-
-nav a.router-link-exact-active {
-  color: green;
-}
-
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
 }
 </style>
