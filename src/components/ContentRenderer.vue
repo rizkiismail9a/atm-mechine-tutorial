@@ -136,8 +136,9 @@ export default {
 .content-renderer ul,
 .content-renderer ol {
   margin: 1rem 0 1rem 2rem;
-  padding-left: 1.5rem;
+  /* padding-left: 1.5rem; */
   font-size: 12px;
+  color: #3c4043;
 }
 
 .content-renderer li {

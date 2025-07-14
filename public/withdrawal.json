@@ -17,7 +17,7 @@
       "type": "h2"
     },
     {
-      "content": "Artinya, anda tidak dapat melakukan tarik tunai di ATM. Anda dapat menghubungi pihak bank untuk penggantian kartu",
+      "content": "Artinya, anda tidak dapat melakukan tarik tunai di ATM. Anda dapat menghubungi pihak bank untuk penggantian kartu terlebih dahulu.",
       "type": "p"
     },
     {
@@ -74,19 +74,11 @@
       "type": "image"
     },
     {
-      "content": "Ya. Nominal yang saya inginkan sudah tertera",
-      "type": "h2"
-    },
-    {
-      "content": "Maka anda bisa menunggu uang keluar dari mesin. Dan jangan lupa ambil kartu ATM anda",
-      "type": "p"
-    },
-    {
       "content": "Saya ingin ambil nominal yang lain",
       "type": "h2"
     },
     {
-      "content": "Pilih transaksi lainnya lalu pilih \"Penarikan Tunai\"",
+      "content": "Jika anda ingin mengambil dalam jumlah lain, anda dapat memilih menu Pilih transaksi lainnya kemudian pilih \"Penarikan Tunai\"",
       "type": "p"
     },
     {
@@ -94,16 +86,20 @@
       "type": "image"
     },
     {
-      "content": "Multinominal",
+      "content": "Pilih Pecahan Uang Jika Ada",
       "type": "h2"
     },
     {
-      "content": "Beberapa ATM menyediakan pecahan uang Rp50.000 atau Rp100.000. Pilih sesuai kebutuhan",
+      "content": "Beberapa ATM menyediakan pecahan uang Rp50.000 atau Rp100.000. Pilih sesuai kebutuhan. Jika ATM tidak menyediakan pilihan ini, kemungkinan pecahan yang tersedia adalah Rp100.000",
       "type": "p"
     },
     {
       "content": "https://i.imgur.com/te6LmZe.png",
       "type": "image"
+    },
+    {
+      "content": "Masukkan nominal yang ingin anda tarik. Jika sudah yakin dan beanr, Anda bisa memilih menu \"Benar\"",
+      "type": "p"
     },
     {
       "content": "https://i.imgur.com/9TWC0TT.png",
@@ -124,7 +120,7 @@
       "type": "image"
     },
     {
-      "content": "Anda bebas memilih untuk tampil saldo atau tidak.",
+      "content": "Anda bebas memilih untuk tampil saldo atau tidak. Jika anda memilih tampilkan saldo, maka sisa uang akan ditampilkan di layar ATM.",
       "type": "p"
     },
     {
@@ -132,7 +128,7 @@
       "type": "h2"
     },
     {
-      "content": "Jangan lupa untuk mengambil uang dan kartu ATM anda dan jangan sampai tertinggal di mesin.",
+      "content": "Jangan lupa untuk mengambil uang dan kartu ATM anda dan jangan sampai tertinggal di mesin karena akan membuat anda kehilangan uang. Jika anda sudah terlanjur kehilangan kartu ATM dan merasa kehilangan uang, anda dapat menghubungi pihak bank untuk melaporkan kejadian tersebut dan meminta untuk diblokir sementara kartu ATM anda.",
       "type": "p"
     },
     {
