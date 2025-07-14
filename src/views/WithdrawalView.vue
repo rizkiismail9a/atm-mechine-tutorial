@@ -44,8 +44,12 @@ export default {
     <transition :name="direction === 'next' ? 'swipe-left' : 'swipe-right'" mode="out-in">
       <div :key="currentStep" style="width: 100%">
         <div v-if="steps.length">
-          <h1>Langkah {{ currentStep + 1 }} / {{ steps.length }}</h1>
-          <ContentRenderer :content="steps[currentStep]" />
+          <h1 style="color: #3c4043; font-size: 26px">
+            Langkah {{ currentStep + 1 }} / {{ steps.length }}
+          </h1>
+          <div class="card">
+            <ContentRenderer :content="steps[currentStep]" />
+          </div>
         </div>
       </div>
     </transition>
@@ -99,6 +103,18 @@ export default {
 
 .nav-buttons .finish-btn {
   background: #43a047 !important;
+}
+
+.card {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+  padding: 1rem 2rem 2rem 1rem;
+  margin: 2rem auto 2rem auto;
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
 }
 
 /* Swipe left (next) */

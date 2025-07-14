@@ -108,13 +108,16 @@ export default {
 .content-renderer h2,
 .content-renderer h3 {
   margin-top: 1.5rem;
-  color: #121212;
+  color: #3c4043;
 }
 
-.content-renderer h1,
+.content-renderer h1 {
+  font-size: 22px;
+  color: #3c4043;
+}
 .content-renderer h2 {
   font-size: 24px;
-  color: #121212;
+  color: #3c4043;
 }
 
 .content-renderer h2 {
@@ -122,7 +125,7 @@ export default {
 }
 
 .content-renderer p {
-  color: #121212;
+  color: #3c4043;
   font-size: 12px;
   text-align: justify;
   line-height: 18px;

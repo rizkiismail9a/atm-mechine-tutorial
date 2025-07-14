@@ -1,7 +1,7 @@
 [
   [
     {
-      "content": "Langkah awal tarik tunai ATM",
+      "content": "1. Langkah awal tarik tunai ATM",
       "type": "h1"
     },
     {
@@ -49,7 +49,7 @@
   ],
   [
     {
-      "content": "Menu ATM: Pilih Tarik Tunai",
+      "content": "2. Menu ATM: Pilih Tarik Tunai",
       "type": "h1"
     },
     {
@@ -111,6 +111,10 @@
     }
   ],
   [
+    {
+      "content": "3. Tahap akhir.",
+      "type": "h1"
+    },
     {
       "content": "Pilihan Tampilkan Saldo atau Tidak",
       "type": "h2"
