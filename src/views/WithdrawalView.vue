@@ -44,7 +44,7 @@ export default {
     <transition :name="direction === 'next' ? 'swipe-left' : 'swipe-right'" mode="out-in">
       <div :key="currentStep" style="width: 100%">
         <div v-if="steps.length">
-          <h1>Langkah {{ currentStep + 1 }}</h1>
+          <h1>Langkah {{ currentStep + 1 }} / {{ steps.length }}</h1>
           <ContentRenderer :content="steps[currentStep]" />
         </div>
       </div>
