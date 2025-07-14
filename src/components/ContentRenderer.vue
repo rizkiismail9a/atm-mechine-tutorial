@@ -83,6 +83,10 @@ export default {
 </script>
 
 <style scoped>
+.content-renderer {
+  margin-bottom: 100px;
+}
+
 .content-renderer img {
   max-width: 100%;
   height: auto;
@@ -103,22 +107,34 @@ export default {
 .content-renderer h1,
 .content-renderer h2,
 .content-renderer h3 {
-  word-break: break-word;
   margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  text-align: left;
+  color: #121212;
+}
+
+.content-renderer h1,
+.content-renderer h2 {
+  font-size: 24px;
+  color: #121212;
+}
+
+.content-renderer h2 {
+  font-size: 18px;
 }
 
 .content-renderer p {
-  word-break: break-word;
-  margin-bottom: 1rem;
-  text-align: left;
+  color: #121212;
+  font-size: 12px;
+  text-align: justify;
+  line-height: 18px;
+  font-weight: normal;
+  letter-spacing: 0.5px;
 }
 
 .content-renderer ul,
 .content-renderer ol {
   margin: 1rem 0 1rem 2rem;
   padding-left: 1.5rem;
+  font-size: 12px;
 }
 
 .content-renderer li {
