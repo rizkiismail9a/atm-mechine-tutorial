@@ -55,11 +55,20 @@ li {
   .sidebar-home {
     /* display: none; */
     position: unset;
+    margin: auto;
+    width: 70vw;
+    max-width: 670px;
     margin-bottom: 20px;
   }
 
   li {
     font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .sidebar-home {
+    width: 90vw;
   }
 }
 </style>

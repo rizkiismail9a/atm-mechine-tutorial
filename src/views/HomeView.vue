@@ -95,7 +95,6 @@ const menuLinks = ref([
   box-shadow: 0px 2px 10px rgb(213, 213, 213);
   padding: 16px;
   border-radius: 8px;
-
   display: flex;
   flex-direction: column;
   gap: 12px;
