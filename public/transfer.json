@@ -5,130 +5,122 @@
       "type": "h1"
     },
     {
-      "content": "Pastikan anda memiliki kartu ATM yang valid dan saldo yang cukup. Tanda kedaluwarsa kartu ATM biasanya terdapat pada bagian belakang kartu dengan nomor bulan dan tahun kedaluwarsa (contoh: 07/25, artinya kartu kedaluwarsa pada bulan Juli 2025).",
+      "content": "Masukkan kartu ATM : Masukkan kartu ATM Anda dengan benar ke mesin ATM.",
       "type": "p"
     },
     {
-      "content": "https://fahum.umsu.ac.id/blog/wp-content/uploads/2024/11/panduan-mudah-ganti-kartu-atm-bca-yang-sudah-kedaluwarsa.jpg",
+      "content": "https://www.bca.co.id/-/media/Images/edukatips/20220607-kartu-debit-tertahan-banner.jpg",
       "type": "image"
     },
     {
-      "content": "Kartu Saya Kedaluwarsa",
+      "content": "Ketik PIN",
       "type": "h2"
     },
     {
-      "content": "Artinya, anda tidak dapat melakukan tarik tunai di ATM. Anda dapat menghubungi pihak bank untuk penggantian kartu",
+      "content": "Masukkan PIN kartu ATM Anda, hati-hati jaga kerahasiaan PIN Anda",
       "type": "p"
     },
     {
-      "content": "Kartu saya masih aktif",
+      "content": "PIN salah",
       "type": "h2"
     },
     {
-      "content": "Anda dapat melanjutkan ke langkah selanjutnya yaitu memasukkan kartu ke dalam mesin.",
+      "content": "Jika PIN Anda benar Anda dapat melanjutkan ke langkah selanjutnya. Tetapi jika salah maka Anda diminta untuk memasukkan kembali PIN ATM Anda. Hal yang perlu diperhatikan adalah  jika 3X salah memasukkan PIN maka kartu ATM Anda akan terblokir dan tidak keluar dari mesin ATM. :",
       "type": "p"
     },
     {
-      "type": "ol",
-      "content": [
-        {
-          "type": "li",
-          "content": "Masukkan kartu ke dalam mesin. Pastikan tanda panah mengarah ke dalam mesin."
-        },
-        { "type": "li", "content": "Masukkan PIN ATM anda pada tombol yang berada di mesin." },
-        {
-          "type": "li",
-          "content": "Pastikan anda memasukkan PIN yang benar. Jika sudah benar, maka anda akan dibawa masuk ke menu ATM"
-        }
-      ]
-    },
-    {
-      "content": "https://media.istockphoto.com/id/913326854/id/foto/tangan-wanita-memasukkan-kartu-bank-emas-ke-slot-kartu-atm.jpg?s=612x612&w=is&k=20&c=j2M4Osme-Zz1gcEJgYmNZ8-DwS8Gtx90zpB35Wji8sQ=",
+      "content": "https://biaya.info/wp-content/uploads/2024/05/maxresdefault-5-678x381.jpg",
       "type": "image"
-    }
+    } 
   ],
   [
     {
-      "content": "Menu ATM: Pilih Tarik Tunai",
+      "content": "Menu ATM: Pilih Transaksi Lainnya",
       "type": "h1"
     },
     {
-      "content": "Pada umumnya, menu tarik tunai berada di halaman depan ATM. Di sini, pilih menu PENARIKAN TUNAI",
+      "content": "Di menu utama, pilih opsi 'Transaksi Lainnya'.",
       "type": "p"
     },
     {
-      "content": "https://i.imgur.com/hE8Vv8v.png",
-      "type": "image"
-    },
-
-    {
-      "content": "Pilih jumlah uang",
-      "type": "h2"
-    },
-    {
-      "content": "Secara default, terdapat jumlah uang yang biasa ditarik dengan nominal tertentu. Pilih salah satu jika cocok, jika tidak terdapat jumlah yang anda inginkan, pilih Transaksi Lainnya",
-      "type": "p"
-    },
-    {
-      "content": "https://i.imgur.com/A4mJk1G.png",
+      "content": "https://image.cermati.com/q_70/g2bfrqrkx8zbfghtvtep.webp",
       "type": "image"
     },
     {
-      "content": "Ya. Nominal yang saya inginkan sudah tertera",
+      "content": "Pilih Transfer ke Bank lain",
       "type": "h2"
     },
     {
-      "content": "Maka anda bisa menunggu uang keluar dari mesin. Dan jangan lupa ambil kartu ATM anda",
+      "content": "Pilih TRANSFER kemudian pilih KE REKENING BANK LAIN",
       "type": "p"
     },
     {
-      "content": "Saya ingin ambil nominal yang lain",
-      "type": "h2"
-    },
-    {
-      "content": "Pilih transaksi lainnya lalu pilih \"Penarikan Tunai\"",
-      "type": "p"
-    },
-    {
-      "content": "https://i.imgur.com/J07mU47.png",
+      "content": "https://www.pdf-jakarta.sch.id/bayar.id/images/image29a.png",
       "type": "image"
     },
     {
-      "content": "Multinominal",
+      "content": "Masukkan Kode Bank dan Nomor Rekening Tujuan.",
       "type": "h2"
     },
     {
-      "content": "Beberapa ATM menyediakan pecahan uang Rp50.000 atau Rp100.000. Pilih sesuai kebutuhan",
+      "content": "Masukkan kode bank dari bank tujuan transfer, misal 002 untuk Bank BRI, 008 untuk Bank Mandiri. Kemudian diikuti dengan nomor rekening tujuan. Contoh 002123456789, dimana 002 adalah kode Bank BRI dan 123456789 adalah Nomor Rekening tujuan.",
       "type": "p"
     },
     {
-      "content": "https://i.imgur.com/te6LmZe.png",
+      "content": "https://www.pdf-jakarta.sch.id/bayar.id/images/image30a.png",
       "type": "image"
     },
     {
-      "content": "https://i.imgur.com/9TWC0TT.png",
+      "content": "Masukkan Nominal Transfer",
+      "type": "h2"
+    },
+    {
+      "content": "Masukkan jumlah uang yang ingin Anda transfer.",
+      "type": "p"
+    },
+     {
+      "content": "Periksa Detail Transaksi",
+      "type": "h2"
+    },
+       {
+      "content": "https://www.pdf-jakarta.sch.id/bayar.id/images/image4a.png",
       "type": "image"
     }
   ],
   [
     {
-      "content": "Pilihan Tampilkan Saldo atau Tidak",
+      "content": "Konfirmasi Transaksi",
       "type": "h2"
     },
     {
-      "content": "https://i.imgur.com/hx7roaR.png",
+      "content": "https://www.pdf-jakarta.sch.id/bayar.id/images/image33a.png",
       "type": "image"
     },
     {
-      "content": "Anda bebas memilih untuk tampil saldo atau tidak.",
+      "content": "Jika semua detail sudah benar, konfirmasi transaksi dengan menekan tombol YA.",
       "type": "p"
     },
     {
-      "content": "Ambil uang dan kartu",
+      "content": "Transaksi selesai",
       "type": "h2"
     },
     {
-      "content": "Jangan lupa untuk mengambil uang dan kartu ATM anda dan jangan sampai tertinggal di mesin.",
+      "content": "Tunggu hingga mesin ATM mengeluarkan struk bukti transaksi. Simpan struk tersebut sebagai bukti transfer.",
+      "type": "p"
+    },
+    {
+      "content": "https://akcdn.detik.net.id/visual/2021/08/31/ilustrasi-struk-atm_169.jpeg?w=650&q=90",
+      "type": "image"
+    },
+    {
+      "content": "Ambil kartu ATM",
+      "type": "h2"
+    },
+    {
+      "content": "Akan ada pilihan apakah akan melakukan transaksi lainnya.",
+      "type": "p"
+    },
+    {"content": "Jika pilih YA makan akan kembali memasukkan PIN, tetapi jika pilih TIDAK maka kartu ATM akan keluar. Pastikan kartu ATM Anda tidak tertinggal.",
       "type": "p"
     },
     {
