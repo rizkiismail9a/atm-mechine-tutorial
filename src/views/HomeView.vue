@@ -12,14 +12,6 @@ const menuLinks = ref([
     link: '/transfer',
     label: 'Transfer',
   },
-  {
-    link: '/',
-    label: 'Setor Tunai',
-  },
-  {
-    link: '/',
-    label: 'Tarik Tunai Tanpa Kartu',
-  },
 ])
 </script>
 
@@ -29,7 +21,7 @@ const menuLinks = ref([
     <div class="warning-box">
       <strong>Perhatian!</strong><br />
       Ini adalah simulasi dan hanya untuk kebutuhan edukasi. Jangan pernah bagikan informasi pribadi
-      anda ke siapapun
+      Anda ke siapapun!
     </div>
     <div class="home-card">
       <h1>Belajar Menggunakan Mesin ATM dengan Mudah</h1>
