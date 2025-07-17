@@ -41,6 +41,11 @@ export default {
 
 <template>
   <div style="position: relative; min-height: 60vh">
+    <div class="warning-box">
+      <strong>Perhatian!</strong><br />
+      Ini adalah simulasi dan hanya untuk kebutuhan edukasi. Jangan pernah bagikan informasi pribadi
+      anda ke siapapun
+    </div>
     <transition :name="direction === 'next' ? 'swipe-left' : 'swipe-right'" mode="out-in">
       <div :key="currentStep" style="width: 100%">
         <div v-if="steps.length">
@@ -158,5 +163,17 @@ a {
 .swipe-left-enter {
   transform: translateX(100%);
   opacity: 0;
+}
+
+.warning-box {
+  background-color: #fff7e6;
+  color: #a15c00;
+  border: 1px solid #ffe0b2;
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 1px 4px rgba(213, 213, 213, 0.2);
 }
 </style>
