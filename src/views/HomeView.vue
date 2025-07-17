@@ -26,6 +26,11 @@ const menuLinks = ref([
 <template>
   <HomeSideBar />
   <div class="home-content">
+    <div class="warning-box">
+      <strong>Perhatian!</strong><br />
+      Ini adalah simulasi dan hanya untuk kebutuhan edukasi. Jangan pernah bagikan informasi pribadi
+      anda ke siapapun
+    </div>
     <div class="home-card">
       <h1>Belajar Menggunakan Mesin ATM dengan Mudah</h1>
 
@@ -128,5 +133,17 @@ p {
 img {
   width: 250px;
   border-radius: 8px;
+}
+
+.warning-box {
+  background-color: #fff7e6;
+  color: #a15c00;
+  border: 1px solid #ffe0b2;
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 1px 4px rgba(213, 213, 213, 0.2);
 }
 </style>
