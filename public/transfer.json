@@ -31,15 +31,15 @@
     {
       "content": "https://biaya.info/wp-content/uploads/2024/05/maxresdefault-5-678x381.jpg",
       "type": "image"
-    }
+    } 
   ],
   [
     {
-      "content": "Menu ATM: Pilih Transaksi Lainnya",
+      "content": "Menu ATM : Pilih Transaksi Lainnya",
       "type": "h1"
     },
     {
-      "content": "Di menu utama, pilih opsi 'Transaksi Lainnya'.",
+      "content": "Di menu utama, pilih opsi 'TRANSAKSI LAINNYA'",
       "type": "p"
     },
     {
@@ -51,7 +51,7 @@
       "type": "h2"
     },
     {
-      "content": "Pilih TRANSFER kemudian pilih KE REKENING BANK LAIN",
+      "content": "Pilih TRANSFER kemudian pilih 'KE REKENING BANK LAIN'",
       "type": "p"
     },
     {
@@ -78,11 +78,11 @@
       "content": "Masukkan jumlah uang yang ingin Anda transfer.",
       "type": "p"
     },
-    {
+     {
       "content": "Periksa Detail Transaksi",
       "type": "h2"
     },
-    {
+       {
       "content": "https://www.pdf-jakarta.sch.id/bayar.id/images/image4a.png",
       "type": "image"
     }
@@ -117,15 +117,10 @@
       "type": "h2"
     },
     {
-      "content": "/audio/atm-sound.mp3",
-      "type": "audio"
-    },
-    {
-      "content": "Jika anda mendengar suara seperti di atas, artinya kartu ATM anda masih di dalam. Akan ada pilihan apakah akan melakukan transaksi lainnya.",
+      "content": "Akan ada pilihan apakah akan melakukan transaksi lainnya.",
       "type": "p"
     },
-    {
-      "content": "Jika pilih YA makan akan kembali memasukkan PIN, tetapi jika pilih TIDAK maka kartu ATM akan keluar. Pastikan kartu ATM Anda tidak tertinggal.",
+    {"content": "Jika pilih YA makan akan kembali memasukkan PIN, tetapi jika pilih TIDAK maka kartu ATM akan keluar. Pastikan kartu ATM Anda tidak tertinggal.",
       "type": "p"
     },
     {

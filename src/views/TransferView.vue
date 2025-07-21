@@ -1,6 +1,8 @@
 <script>
+/* Menggunakan komponen dari file ContentRenderer.vue */
 import ContentRenderer from '@/components/ContentRenderer.vue'
 
+/* Selektor */
 export default {
   components: { ContentRenderer },
   data() {
@@ -10,6 +12,7 @@ export default {
       direction: 'next', // 'next' or 'prev' for animation
     }
   },
+
   async created() {
     // Fetch the JSON file (assuming it's in /public)
     const response = await fetch('/transfer.json')
@@ -39,6 +42,8 @@ export default {
 }
 </script>
 
+/* Menampilkan kotak peringatan dengan teks penting */
+/* Merubah warna h1 menjadi biru */
 <template>
   <div style="position: relative; min-height: 60vh">
     <div class="warning-box">
@@ -49,7 +54,8 @@ export default {
     <transition :name="direction === 'next' ? 'swipe-left' : 'swipe-right'" mode="out-in">
       <div :key="currentStep" style="width: 100%">
         <div v-if="steps.length">
-          <h1>Langkah {{ currentStep + 1 }}</h1>
+            <h1 style="color: #0f27dcff; font-size: 26px">
+          Langkah {{ currentStep + 1 }}</h1>
           <ContentRenderer :content="steps[currentStep]" />
         </div>
       </div>
@@ -74,6 +80,7 @@ export default {
   </div>
 </template>
 
+*/ penggunaan selektor untuk pengaturan tampilan */
 <style scoped>
 .nav-buttons {
   position: fixed;
@@ -153,6 +160,7 @@ export default {
   margin-bottom: 16px;
   font-size: 14px;
   font-weight: 500;
-  box-shadow: 0 1px 4px rgba(213, 213, 213, 0.2);
+  box-shadow: 0 1px 4px rgba(7, 211, 4, 0.2);
 }
+
 </style>
