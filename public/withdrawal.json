@@ -128,7 +128,11 @@
       "type": "h2"
     },
     {
-      "content": "Jangan lupa untuk mengambil uang dan kartu ATM anda dan jangan sampai tertinggal di mesin karena akan membuat anda kehilangan uang. Jika anda sudah terlanjur kehilangan kartu ATM dan merasa kehilangan uang, anda dapat menghubungi pihak bank untuk melaporkan kejadian tersebut dan meminta untuk diblokir sementara kartu ATM anda.",
+      "content": "/audio/atm-sound.mp3",
+      "type": "audio"
+    },
+    {
+      "content": "Jika anda mendengar suaraa seperti di atas, jangan lupa untuk mengambil uang dan kartu ATM anda dan jangan sampai tertinggal di mesin karena akan membuat anda kehilangan uang. Jika anda sudah terlanjur kehilangan kartu ATM dan merasa kehilangan uang, anda dapat menghubungi pihak bank untuk melaporkan kejadian tersebut dan meminta untuk diblokir sementara kartu ATM anda.",
       "type": "p"
     },
     {
