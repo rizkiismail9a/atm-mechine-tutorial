@@ -76,6 +76,44 @@ const menuLinks = ref([
 
         <HomeButton v-for="(menu, i) in menuLinks" :key="i" :label="menu.label" :link="menu.link" />
       </section>
+
+      <section id="features">
+        <h2>Masalah-masalah apa saja yang dapat terjadi di ATM?</h2>
+
+        <p>
+          Meskipun ATM sangat berguna, terkadang Anda mungkin menghadapi beberapa masalah saat
+          menggunakan mesin ini. Jangan panik jika Anda mengalami kesulitan, karena sebagian besar
+          masalah dapat diatasi dengan mudah. Berikut ini adalah beberapa contoh masalah yang
+          mungkin Anda hadapi dan cara mengatasinya.
+        </p>
+
+        <table class="atm-issue-table">
+          <thead>
+            <tr>
+              <th>Masalah</th>
+              <th>Penyebab Umum</th>
+              <th>Solusi</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Kartu tidak terbaca</td>
+              <td>Kartu rusak / chip kotor</td>
+              <td>Bersihkan kartu / ganti di bank</td>
+            </tr>
+            <tr>
+              <td>Salah PIN 3 kali</td>
+              <td>Salah ketik PIN</td>
+              <td>Hubungi bank untuk reset</td>
+            </tr>
+            <tr>
+              <td>Uang tidak keluar tapi saldo berkurang</td>
+              <td>Mesin error atau habis uang</td>
+              <td>Lapor ke bank dengan bukti transaksi</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
     </div>
   </div>
   <AppFooter />
@@ -139,5 +177,34 @@ img {
   font-size: 14px;
   font-weight: 500;
   box-shadow: 0 1px 4px rgba(213, 213, 213, 0.2);
+}
+
+.atm-issue-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  background: #fafbfc;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(213, 213, 213, 0.18);
+}
+.atm-issue-table th,
+.atm-issue-table td {
+  padding: 12px 16px;
+  text-align: left;
+  font-size: 13px;
+  border-bottom: 1px solid #ececec;
+}
+.atm-issue-table th {
+  background: #1976d2;
+  color: #fff;
+  font-weight: 600;
+}
+.atm-issue-table tr:last-child td {
+  border-bottom: none;
+}
+.atm-issue-table tbody tr:hover {
+  background: #f0f4ff;
+  transition: background 0.2s;
 }
 </style>
