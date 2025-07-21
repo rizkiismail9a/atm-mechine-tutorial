@@ -2,7 +2,7 @@
 
 <template>
   <nav class="navbar">
-    <RouterLink to="/">ATM Mini Course</RouterLink>
+    <RouterLink to="/">Tutorial Mesin ATM</RouterLink>
   </nav>
 </template>
 

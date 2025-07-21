@@ -1,4 +1,5 @@
 <script setup>
+import AppFooter from '@/components/AppFooter.vue'
 import HomeButton from '@/components/Home/HomeButton.vue'
 import HomeSideBar from '@/components/Home/HomeSideBar.vue'
 import { ref } from 'vue'
@@ -77,6 +78,7 @@ const menuLinks = ref([
       </section>
     </div>
   </div>
+  <AppFooter />
 </template>
 
 <style scoped>
