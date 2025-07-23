@@ -23,6 +23,9 @@ const scrollToContent = (contentId) => {
       <li @click="scrollToContent('about-atm')">Apa itu mesin ATM?</li>
       <li @click="scrollToContent('usage')">Penggunaan</li>
       <li @click="scrollToContent('features')">Layanan Apa Saja yang Tersedia di ATM?</li>
+      <li @click="scrollToContent('problems')">
+        Masalah-masalah apa saja yang dapat terjadi di ATM?
+      </li>
     </ul>
   </div>
 </template>

@@ -77,7 +77,7 @@ const menuLinks = ref([
         <HomeButton v-for="(menu, i) in menuLinks" :key="i" :label="menu.label" :link="menu.link" />
       </section>
 
-      <section id="features">
+      <section id="problems">
         <h2>Masalah-masalah apa saja yang dapat terjadi di ATM?</h2>
 
         <p>
